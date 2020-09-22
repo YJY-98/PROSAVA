@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.rar filter=lfs diff=lfs merge=lfs -text
+C:/Users/dugujian/Documents/GitHub/PROSAVA/Pfam-A.hmm-version33.1.rar filter=lfs diff=lfs merge=lfs -text
